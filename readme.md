@@ -54,3 +54,7 @@ grant all privileges on wordpress.* to "admin"@"%"
 ```
 access your ```IP``` or ```domain``` name and fill the database details and install WordPress 
 
+
+## Watch full tutorial on youtube
+[Install Wordpress On AWS EC2 Ubuntu Server Using Terminal](https://www.youtube.com/watch?v=3pMygVjLW3g)
+
